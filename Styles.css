@@ -123,6 +123,9 @@ button:active {
 }
 
 @media only screen and (max-width: 600px) {
+    main{
+        margin: 40px;
+    }
     section {
         flex-direction: column;
         width: 400px;
