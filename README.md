@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/rohitk920/Product-preview-card-component)
-- Live Site URL: [Live URL](/)
+- Live Site URL: [Live URL](https://rohitk920.github.io/Product-preview-card-component/)
 
 
 ### Built with
